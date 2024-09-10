@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning NextJS, PHP<br>🎯 Goals: Full stack dev<br>🎲 Fun fact: I can draw portraits.</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning NextJS, PHP<br>🎯 Goals: Full stack dev<br>🎲 Fun fact: I can draw portraits <br>✨ Portfolio: https://atikahnaz.github.io/Portfolio/ </p>
 
 ###
 
